@@ -1,0 +1,393 @@
+	a{
+
+		color: #000;
+		text-decoration: none;
+	}
+
+	#menu ul li a:hover{
+
+		color: #455aac;
+		
+	}
+
+	.container{
+
+		min-height: 1000px;
+		background: #f1f1f1;
+		width: 1200px;
+		height: auto;
+		margin: 0px auto;
+	}
+
+	.header{
+
+		width: 100%;
+		position: relative;
+		background: #fff;
+		height: 100px;
+	}
+
+	.section-1{
+
+		position: relative;
+		height: 400px;
+		width: 100%;
+		background: #fff;
+	}
+
+	.section-2{
+
+		position: relative;
+		background: #f1f1f1;
+		width: 100%;
+		height: 420px;
+	}
+
+	.section-3{
+
+		position: relative;
+		width: 100%;
+		height: 400px;
+		background: #fff;
+	}
+
+	.section-4{
+
+		position: relative;
+		background: #235;
+		height: 300px;
+		width: 100%
+	}
+
+	#logo{
+
+		position: absolute;
+		width: 120px;
+		height: 80px;
+		top: 10px;
+		left: 20px;
+		/*background: #fff;*/
+	}
+
+	#logo img {
+
+		width: 100%;
+		height: 100%;
+	}
+
+	#menu{
+
+		position: relative;
+		width: 50%;
+		height: 50px;
+		/*background: #fff;*/
+		top: 20px;
+		left: 300px;
+	}
+
+	#menu ul{
+
+		list-style: none;
+		position: relative;
+		margin: 0px;
+		top: 20px;
+		left: 20px;
+	}
+
+	#menu ul li{
+
+		display: inline;
+		color: #000;
+		font-weight: bold;
+		font-size: 18px;
+		/*border-right: 2px solid #000;*/
+		padding-left: 25px;
+		padding-right: 15px;
+	}
+
+	#menu button{
+
+		background-color: green;
+		color: #fff;
+		position: absolute;
+		font-weight: bold;
+		font-size: 18px;
+		/*border-radius: 50%;*/
+		left: 700px;
+		top: 0px;
+		margin: 0px;
+	}
+
+	.sect-1-box{
+
+		position: relative;
+		width: 400px;
+		height: 350px;
+		left: 30px;
+		top: 20px;
+		/*background: #fff;*/
+	}
+
+	.sect-1-box h2{
+
+		font-size: 30px;
+		color: #000;
+		/*font-weight: bold;*/
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		margin: 10px;
+	}
+
+	.sect-1-box p{
+
+		font-size: 25px;
+		color: #000;
+		position: absolute;
+		margin: 0px;
+		top: 140px;
+	}
+
+	.sect-1-box button{
+
+		position: absolute;
+		background-color: green;
+		font-size: 18px;
+		font-weight: bold;
+		top: 280px;
+		color: #fff;
+
+	}
+
+	.headline{
+
+		position: absolute;
+		/*background: #fff;*/
+		width: 700px;
+		height: 400px;
+		left: 500px;
+		top: 0px;	
+	}
+
+	.headline img{
+
+		width: 65%;
+		height: 100%;
+	}
+
+	#hall{
+
+		position: relative;
+	/*	background: #000;*/
+		width: 500px;
+		height: 300px;
+		top: -330px;
+		left: 600px;
+		/*bottom: 50px;*/
+		margin: 0px;
+
+	}
+
+	#hall img{
+
+		position: absolute;
+		width: 300px;
+		height: 400px;
+		top: -30px;
+		left:40px;
+	}
+
+	#block{
+
+		position: absolute;
+		/*background: #fff;*/
+		width: 500px;
+		height: 130px;
+		top: 40px;
+		left: 20px;
+
+	}
+
+	#block h2{
+
+		font-size: 25px;
+		font-weight: bold;
+		position: absolute;
+		color: #000;
+		left: 10px;
+		top: -30px;
+	}
+
+	#block p{
+
+		font-size: 20px;
+		position: absolute;
+		color: #000;
+		top: 60px;
+		margin: 0px;
+		left: 15px;
+	}
+
+	#turbo{
+
+		position: relative;
+		/*background: #fff;*/
+		width: 200px;
+		height: 230px;
+		top: 180px;
+		left: 50px;
+		display: inline-block;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	#turbo img{
+
+		position: relative;
+		width: 110px;
+		height: 110px;
+
+	}
+
+	#turbo h2{
+
+		font-weight: bold;
+		font-size: 13px;
+		position: relative;
+		top: -10px;
+
+	}
+
+	#turbo p{
+
+		position: relative;
+		font-size: 13px;
+		top: -20px;
+	}
+
+	#nippet{
+
+		/*background: #fff;*/
+		position: absolute;
+		width: 380px;
+		height: 80px;
+		left: 20px;
+		top: 20px;	
+	}
+
+	#nippet h2{
+
+		font-size: 30px;
+		position: absolute;
+		font-weight: bold;
+		left: 10px;
+		top: 20px;
+	}
+
+	#wicket{
+
+		display: inline-block;
+		/*background: #fff;*/
+		position: relative;
+		width: 200px;
+		height: 280px;
+		left: 30px;
+		top: 110px;
+		padding-right: 45px;
+		padding-left: 40px;
+	}
+
+	#wicket h1{
+
+		font-size: 15px;
+		position: absolute;
+		font-weight: bold;
+		top: 115px;	
+	}
+
+	#wicket img{
+
+		position: relative;
+		width: 117px;
+		height: 110px;
+		top: 10px;
+	}
+
+	#wicket h2{
+
+		font-size: 15px; 
+		position: relative;
+		top: 40px;
+	}
+
+	#wicket p{
+
+		font-size: 10px;
+		position: relative; 
+		top: 30px;	
+	}
+
+	#clone{
+
+		/*background: #fff;*/
+		position: relative;
+		width: 220px;
+		height: 250px;
+		display: inline-block;
+		top: 40px;
+		padding-left: 25px;
+		padding-right: 20px;
+		left: 20px;
+		margin: 0px;
+	}
+
+	#clone img{
+		position: relative;
+		top: 50px;
+		width: -10px;
+		height: 15px;
+		background: #fff;
+	}
+
+	#clone ul{
+
+		position: relative;
+		list-style: none;
+	}
+
+	#clone ul li{
+
+		font-weight: bold;
+		font-size: 13px;
+		color: #ccc;
+	}
+
+	#troll{
+
+		position: absolute;
+		/*background: #fff;*/
+		width: 320px;
+		height: 120px;
+		left: 850px;
+		top: 70px;
+	}
+
+	#troll button{
+
+		position: absolute;
+		background-color: green;
+		top: 15px;
+		height: 30px;
+		left: -30px;
+		color: #fff;
+	}
+
+	#troll h2{
+
+		position: absolute;
+		font-size: 13px;
+		top: 90px;
+		color: #ccc;
+		left: -30px;
+
+	
